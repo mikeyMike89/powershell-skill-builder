@@ -1,0 +1,17 @@
+# OS-specific junk
+Thumbs.db
+.DS_Store
+
+# VSCode settings (keep workspace clean)
+.vscode/
+
+# PowerShell transcript logs (if you ever use Start-Transcript)
+*.txt
+*.log
+
+# Temporary / auto-generated files
+*.tmp
+*.bak
+
+# Ignore anything in a "private" folder if you make one
+private/
